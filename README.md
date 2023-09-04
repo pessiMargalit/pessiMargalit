@@ -17,4 +17,4 @@ I'm a Freelance Full Stack Developer with a passion for crafting robust and effi
 
 Feel free to explore my repositories to see some of the exciting projects I've worked on. If you have any questions or want to collaborate on a project, don't hesitate to reach out. Let's build amazing things together!
 
-📫 You can contact me via email at pessimargalit@email.com
+📫 You can contact me via email at pessimargalit@gmail.com
