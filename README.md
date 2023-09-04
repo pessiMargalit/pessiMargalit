@@ -15,6 +15,11 @@ I'm a Freelance Full Stack Developer with a passion for crafting robust and effi
 ![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-%230A84FF.svg?style=for-the-badge&logo=jira&logoColor=white)
 
+Feel free to explore my repositories to see some of the exciting projects I've worked on. If you have any questions or want to collaborate on a project, don't hesitate to reach out.
+
+[![Email](https://img.shields.io/badge/Email-Gmail-red?style=for-the-badge&logo=gmail)](mailto:youremail@gmail.com)
+
+Let's build amazing things together!
 
 Feel free to explore my repositories to see some of the exciting projects I've worked on. If you have any questions or want to collaborate on a project, don't hesitate to reach out. Let's build amazing things together!
 
