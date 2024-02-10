@@ -1,4 +1,4 @@
-# Hi, I'm Pessia 👋
+# Hi, I'm Pessi 👋
 
 I'm a Freelance Full Stack Developer with a passion for crafting robust and efficient software solutions. I enjoy working with a diverse range of technologies to build scalable applications and solve real-world problems. Here are some of the languages and tools I work with:
 
