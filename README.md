@@ -1,6 +1,9 @@
 # Hi, I'm Pessi 👋
 
-I'm a Freelance Full Stack Developer with a passion for crafting robust and efficient software solutions. I enjoy working with a diverse range of technologies to build scalable applications and solve real-world problems. Here are some of the languages and tools I work with:
+I'm a Full Stack Developer passionate about building scalable, performant, and elegant software solutions. I love working across the stack — from designing intuitive front-end interfaces to implementing robust backend systems and cloud deployments.
+
+I have experience developing complex web applications using modern frameworks and RESTful APIs. My focus is on clean architecture, maintainability, and delivering impactful features that solve real-world problems.
+
 
 ![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![.NET Core](https://img.shields.io/badge/.NET%20Core-%235C2D91.svg?style=for-the-badge&logo=.net&logoColor=white)
@@ -20,8 +23,4 @@ I'm a Freelance Full Stack Developer with a passion for crafting robust and effi
 ![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-%230A84FF.svg?style=for-the-badge&logo=jira&logoColor=white)
 
-I'm actively seeking a challenging position where I can apply my skills and leverage my diverse experience in the backend web world. If you have an opportunity or a project you'd like to discuss, please feel free to contact me.
-
 📫 You can contact me via email at pessimargalit@gmail.com
-
-Let's build amazing things together!
